@@ -55,9 +55,11 @@
 
 1. Navigate to the "src" folder, run the `rattel.bat` file.
 
+
 ## Common Errors
-If You Find a Error Saying `Cannot Find discord.js`then simply press SHIFT+Right-Click In that Folder and select Open Command Window then run `npm init -y`and hit enter until the wizard is complete then run `npm i discord. js`and it will install discord.js.
+If You Find a Error Saying `Cannot Find discord.js` then simply press SHIFT+Right-Click In that Folder and select Open Command Window then run `npm init -y` and hit enter until the wizard is complete then run `npm i discord. js` and it will install discord.js.
 If you can't fix the error dm me on discord.
+
 
 # Disclaimer
 
