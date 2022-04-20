@@ -1,5 +1,5 @@
 @echo off
-title Rattle Nuker
+title Rattel Nuker
 
 if exist node_modules\ (
   echo You've already installed this
