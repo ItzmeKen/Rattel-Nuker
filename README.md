@@ -72,6 +72,6 @@ Also I'd recommend only mass pinging till the server reaches to 3k pings. Any mo
 
 ## Contact Me
 
-﹒[Discord](https://discord.com/users/958589842860675082)
+﹒[Discord](https://discord.com/channels/@me/1025449053821083711)
 ﹒[Discord Server](https://discord.gg/a3EjDW2Uu3)
 ﹒[Instagram](https://www.instagram.com/itz.me._.ken/)
