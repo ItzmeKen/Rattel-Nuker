@@ -10,7 +10,6 @@ const { token, prefix, userID, disableEveryone } = require("../config/config.jso
 nuker.on("ready", () => {
     console.clear();
     console.log(red(`
-    
  ___    _____  _____  _____  ___    _     
 |  _`\ (  _  )(_   _)(_   _)(  _`\ ( )    
 | (_) )| (_) |  | |    | |  | (_(_)| |    
